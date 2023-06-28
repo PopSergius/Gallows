@@ -1,0 +1,4 @@
+﻿  Main.cpp
+D:\Project\C++ project\Шибениця\Шибениця\Main.cpp(68,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Project\C++ project\Шибениця\Шибениця\Main.cpp(77,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Шибениця.vcxproj -> D:\Project\C++ project\Шибениця\x64\Debug\Шибениця.exe
